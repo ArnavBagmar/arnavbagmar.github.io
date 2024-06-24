@@ -224,13 +224,13 @@ nav ul li a:hover::after{
 
 @media (max-width: 768px) {
     .header-text h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
     .header-text p {
-        font-size: 20px;
+        font-size: 15px;
     }
     nav ul li a {
-        font-size: 20px;
+        font-size: 15px;
     }
     .about-col-1, .about-col-2 {
         flex-basis: 100%;
