@@ -222,7 +222,7 @@ nav ul li a:hover::after{
     background: linear-gradient(135deg, #99f2c8, #1f4037);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .header-text h1 {
         font-size: 30px;
     }
